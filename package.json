@@ -1,6 +1,6 @@
 {
-  "name": "superagent",
-  "version": "3.5.3-beta.2",
+  "name": "@influans/superagent",
+  "version": "1.0.0",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
     "prepublish": "make all",
